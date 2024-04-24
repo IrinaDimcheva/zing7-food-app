@@ -9,6 +9,11 @@ nextConfig.images = {
       port: '',
       pathname: '/photo-**',
     },
+    {
+      protocol: 'https',
+      hostname: 'duyt4h9nfnj50.cloudfront.net',
+      port: '',
+    },
   ],
 };
 
