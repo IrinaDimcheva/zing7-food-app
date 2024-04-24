@@ -14,12 +14,12 @@ export default function Hero() {
           </h1>
         </div>
         <Image
-          className="w-full max-h-[500px] object-cover"
+          className="w-full max-h-[500px]"
           src="/burger.webp"
           alt="burger"
           width={1640}
           height={500}
-          // style={{ objectFit: 'cover' }}
+          style={{ objectFit: 'cover' }}
         />
       </div>
     </div>
